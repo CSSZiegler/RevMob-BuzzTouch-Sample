@@ -1,0 +1,34 @@
+{"BT_appConfig":
+	{
+	"BT_items":[
+		{"itemId":"JAF3D3720D3C91F525AB0F18F",
+			"itemType":"BT_app",
+			"buzztouchAppId":"JAF3D3720D3C91F525AB0F18F",
+			"buzztouchAPIKey":"0C128517F3E6143310AADEA", 
+			"dataURL":"https://www.buzztouch.com/api/app/?command=getAppData&appGuid=JAF3D3720D3C91F525AB0F18F&apiKey=0C128517F3E6143310AADEA&apiSecret=ED0A5A64AAB28CFAAE7BC44", 
+			"reportToCloudURL":"https://www.buzztouch.com/api/app/?command=reportToCloud&appGuid=JAF3D3720D3C91F525AB0F18F&apiKey=0C128517F3E6143310AADEA&apiSecret=ED0A5A64AAB28CFAAE7BC44&deviceId=[deviceId]&deviceLatitude=[deviceLatitude]&deviceLongitude=[deviceLongitude]&deviceModel=[deviceModel]&userId=[userId]", 
+			"registerForPushURL":"https://www.buzztouch.com/api/app/?command=registerForPush&appGuid=JAF3D3720D3C91F525AB0F18F&apiKey=0C128517F3E6143310AADEA&apiSecret=ED0A5A64AAB28CFAAE7BC44&deviceId=[deviceId]&deviceLatitude=[deviceLatitude]&deviceLongitude=[deviceLongitude]&deviceModel=[deviceModel]&userId=[userId]", 
+			"lastModified":"Thu, 25 Jul 2013 20:26:30 -0700", 
+			"lastPublished":"Thu, 25 Jul 2013 20:26:30 -0700", 
+			"name":"RevMobSampleApp", 
+			"version":"1.0", 
+			"currentMode":"Design", 
+			"startLocationUpdates":"0", 
+			"promptForPushNotifications":"0", 
+			"allowRotation":"largeDevicesOnly", 
+
+			"BT_themes":[{"itemId":"F87599EE983E452E65E9B9D", "itemType":"BT_theme", "backgroundColor":"#FFFFFF"}
+			],
+
+			"BT_tabs":[
+			],
+
+			"BT_screens":[{"itemId":"7BBDE7DCD00C09C41925F99", "itemType":"BT_screen_menuListSimple", "itemNickname":"Home Screen Menu", "navBarTitleText":"Home",
+"childItems":[]}
+
+			]
+		}
+
+		] 
+
+	}}
